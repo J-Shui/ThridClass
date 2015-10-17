@@ -1,0 +1,53 @@
+<component name="libraryTable">
+  <library name="libapshare">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/libapshare.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/MobLogCollector.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/MobTools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-Alipay-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-Bluetooth-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-Core-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-Douban-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-Dropbox-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-Email-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-Evernote-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-Facebook-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-FacebookMessenger-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-Flickr-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-Foursquare-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-GooglePlus-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-Instagram-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-Instapaper-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-KaiXin-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-Kakao-Core-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-KakaoStory-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-KakaoTalk-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-Line-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-Linkedin-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-Mingdao-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-Pinterest-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-Pocket-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-QQ-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-QZone-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-Renren-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-ShortMessage-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-SinaWeibo-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-SohuSuishenkan-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-TencentWeibo-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-Tumblr-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-Twitter-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-VKontakte-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-Wechat-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-Wechat-Core-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-Wechat-Favorite-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-Wechat-Moments-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-WhatsApp-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-Yixin-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-Yixin-Core-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-Yixin-Moments-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShareSDK-YouDao-2.6.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
